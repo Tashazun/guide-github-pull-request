@@ -1,4 +1,4 @@
-# Add your name to this list
+Tasha Zuniga
 > Feel free to use [Markdown](http://daringfireball.net/projects/markdown/syntax) to link to your Twitter profile:
 
 > `- [your name](your twitter profile URL)`
